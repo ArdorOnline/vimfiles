@@ -10,3 +10,4 @@ set noswapfile
 
 set number
 set numberwidth=4
+set list

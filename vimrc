@@ -31,3 +31,4 @@ set hidden
 set showcmd
 set showmode
 set tabstop=4
+set shiftwidth=4

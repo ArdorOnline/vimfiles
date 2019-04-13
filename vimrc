@@ -38,3 +38,4 @@ set expandtab
 set autoindent
 set smartindent
 set backspace=indent,eol,start
+set pumheight=5
